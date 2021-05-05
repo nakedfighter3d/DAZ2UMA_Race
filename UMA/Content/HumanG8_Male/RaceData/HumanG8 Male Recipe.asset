@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: HumanG8 Male Recipe
+  m_EditorClassIdentifier: 
+  label: 
+  resourcesOnly: 0
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  HideTags: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"HumanG8_Male_Torso","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanG8_Male_Skin_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"HumanG8_Male_Face","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"HumanG8_Male_Feet","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"HumanG8_Male_Hands","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"HumanG8_Male_Legs","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanG8_Male_Skin_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"HumanG8_Male_InnerMouth","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanG8_Male_InnerMouth_Overlay","colorIdx":2,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"HumanG8_Male_Eyes","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanG8_Male_Eyes_Overlay","colorIdx":3,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":0,"race":"HumanG8
+    Male","packedDna":[],"wardrobeSet":[],"packedRecipeType":"Standard"}'
